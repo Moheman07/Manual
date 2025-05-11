@@ -1,282 +1,47 @@
 [
   {
-    "name": "beIN Sports 1 FHD HEVC VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg4MDE=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18801"
+    "name": "beIN SPORTS 1",
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9aSzV6b2FDZnNwL2pURk9EY1piWWxTRS8xOC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/ZK5zoaCfsp/jTFODcZbYlSE/18.m3u8"
   },
   {
-    "name": "beIN Sports 2 FHD HEVC VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg4MDA=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18800"
+    "name": "beIN SPORTS 2",
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9aSzV6b2FDZnNwL2pURk9EY1piWWxTRS8xOS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/ZK5zoaCfsp/jTFODcZbYlSE/19.m3u8"
   },
   {
-    "name": "beIN Sports 3 FHD HEVC VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3OTY=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18796"
+    "name": "beIN SPORTS 3",
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9aSzV6b2FDZnNwL2pURk9EY1piWWxTRS8yMC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/ZK5zoaCfsp/jTFODcZbYlSE/20.m3u8"
   },
   {
-    "name": "beIN Sports 4 FHD HEVC VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3OTI=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18792"
+    "name": "beIN SPORTS 4",
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9aSzV6b2FDZnNwL2pURk9EY1piWWxTRS8yMS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/ZK5zoaCfsp/jTFODcZbYlSE/21.m3u8"
   },
   {
-    "name": "beIN Sports 5 FHD HEVC VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3ODk=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18789"
+    "name": "beIN SPORTS 5",
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9aSzV6b2FDZnNwL2pURk9EY1piWWxTRS8yMi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/ZK5zoaCfsp/jTFODcZbYlSE/22.m3u8"
   },
   {
-    "name": "beIN Sports 6 FHD HEVC VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3ODc=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18787"
+    "name": "beIN SPORTS 6",
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9aSzV6b2FDZnNwL2pURk9EY1piWWxTRS8yMy5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/ZK5zoaCfsp/jTFODcZbYlSE/23.m3u8"
   },
   {
-    "name": "beIN Sports 7 FHD HEVC VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3ODU=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18785"
+    "name": "beIN SPORTS 7",
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9aSzV6b2FDZnNwL2pURk9EY1piWWxTRS8yNC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/ZK5zoaCfsp/jTFODcZbYlSE/24.m3u8"
   },
   {
-    "name": "beIN Sports Premium 1 FHD HEVC VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3ODM=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18783"
+    "name": "beIN SPORTS 8",
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9aSzV6b2FDZnNwL2pURk9EY1piWWxTRS8yNS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/ZK5zoaCfsp/jTFODcZbYlSE/25.m3u8"
   },
   {
-    "name": "beIN Sports Premium 2 FHD HEVC VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3ODE=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18781"
-  },
-  {
-    "name": "beIN Sports Premium 3 FHD HEVC VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3ODA=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18780"
-  },
-  {
-    "name": "beIN Sports 1 HD VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzUwMTE=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/75011"
-  },
-  {
-    "name": "beIN Sports 2 HD VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzUwMTA=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/75010"
-  },
-  {
-    "name": "beIN Sports 3 HD VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3OTc=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18797"
-  },
-  {
-    "name": "beIN Sports 4 HD VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3OTM=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18793"
-  },
-  {
-    "name": "beIN Sports 5 HD VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3OTA=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18790"
-  },
-  {
-    "name": "beIN Sports 6 HD VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3ODg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18788"
-  },
-  {
-    "name": "beIN Sports 7 HD VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3ODY=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18786"
-  },
-  {
-    "name": "beIN Sports Premium 1 HD VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3ODQ=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18784"
-  },
-  {
-    "name": "beIN Sports Premium 2 HD VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3ODI=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18782"
-  },
-  {
-    "name": "beIN Sport 1 SD ARB VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzUwMDA=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/75000"
-  },
-  {
-    "name": "beIN Sport 2 SD ARB VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzUwMDE=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/75001"
-  },
-  {
-    "name": "beIN Sport 3 SD ARB VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzUwMDI=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/75002"
-  },
-  {
-    "name": "beIN Sport 4 SD ARB VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzUwMDM=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/75003"
-  },
-  {
-    "name": "beIN Sport 5 SD ARB VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzUwMDQ=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/75004"
-  },
-  {
-    "name": "beIN Sport 6 SD ARB VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzUwMDU=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/75005"
-  },
-  {
-    "name": "beIN Sport 7 SD ARB VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzUwMDY=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/75006"
-  },
-  {
-    "name": "beIN Sport Premium 1 SD ARB VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzUwMDc=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/75007"
-  },
-  {
-    "name": "beIN Sport Premium 2 SD ARB VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzUwMDg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/75008"
-  },
-  {
-    "name": "beIN Sport Premium 3 SD ARB VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzUwMDk=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/75009"
-  },
-  {
-    "name": "beIN Sports 2 FHD FR VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3OTk=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18799"
-  },
-  {
-    "name": "beIN Sports 2 HD TH VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3OTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18798"
-  },
-  {
-    "name": "beIN Sports 3 FHD FR VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3OTU=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18795"
-  },
-  {
-    "name": "beIN Sports 3 HD TH VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3OTQ=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18794"
-  },
-  {
-    "name": "beIN Sports News HD VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTg3Nzc=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/18777"
-  },
-  {
-    "name": "beIN Sports 1 HD TR VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTkwNTQ=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/19054"
-  },
-  {
-    "name": "beIN Sports 1 FHD TR VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTkwNTA=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/19050"
-  },
-  {
-    "name": "beIN Sports 2 HD TR VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTkwNTM=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/19053"
-  },
-  {
-    "name": "beIN Sports 2 FHD TR VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTkwNDk=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/19049"
-  },
-  {
-    "name": "beIN Sports 3 HD TR VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTkwNTI=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/19052"
-  },
-  {
-    "name": "beIN Sports 3 FHD TR VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTkwNDg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/19048"
-  },
-  {
-    "name": "beIN Sports 4 HD TR VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTkwNTE=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/19051"
-  },
-  {
-    "name": "beIN Sports 4 FHD TR VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMTkwNDc=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/19047"
-  },
-  {
-    "name": "beIN Sports 1 FHD AU VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzM2Mzk=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/73639"
-  },
-  {
-    "name": "beIN Sports 2 FHD AU VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzM2Mzg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/73638"
-  },
-  {
-    "name": "beIN Sports 3 FHD AU VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNzM2Mzc=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/73637"
-  },
-  {
-    "name": "beIN Sport 1 HD US VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNDg0MDg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/48408"
-  },
-  {
-    "name": "beIN Sport 2 HD US VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNDg0MDc=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/48407"
-  },
-  {
-    "name": "beIN Sport 4 HD US VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNDg0MDY=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/48406"
-  },
-  {
-    "name": "beIN Sport 5 HD US VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNDg0MDU=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/48405"
-  },
-  {
-    "name": "beIN Sport 6 HD US VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNDg0MDQ=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/48404"
-  },
-  {
-    "name": "beIN Sport 7 HD US VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNDg0MDM=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/48403"
-  },
-  {
-    "name": "beIN Sport 8 HD US VIP SPORTS",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvNDg0MDI=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/48402"
-  },
-  {
-    "name": "beIN Sports Max 5 AR VIP Sports",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvOTczOTk=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/97399"
-  },
-  {
-    "name": "beIN Sports Max 6 HD AR VIP Sports",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvOTczOTc=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/97397"
-  },
-  {
-    "name": "BEIN SPORTS 1 HD PH",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMjQxOTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/24198"
-  },
-  {
-    "name": "BEIN SPORTS 2 HD PH",
-    "intent_url": "intent://aHR0cDovL3NtYXJ0Mi5pcHR2LW9uLmNvbS4xMjN0di50bzo4MDgwL0plZmZyZXkyOTA1L3h5ODZ0clVEcGwvMjQxOTc=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://smart2.iptv-on.com.123tv.to:8080/Jeffrey2905/xy86trUDpl/24197"
+    "name": "beIN SPORTS 9",
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9aSzV6b2FDZnNwL2pURk9EY1piWWxTRS8yNi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/ZK5zoaCfsp/jTFODcZbYlSE/26.m3u8"
   }
 ]
