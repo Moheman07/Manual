@@ -1,27 +1,42 @@
 [
   {
-    "name": "beIN Sport 1HD",
-    "intent_url": "intent://aHR0cHM6Ly9iYi5nZ2dzam1qaDc1NmhnZmZyZWV3Z3VpaWpuYnZjZmc3LnN0b3JlOjgxODEvYmVpbjEvaW5kZXgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://bb.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein1/index.m3u8"
+    "name": "beIN SPORTS News",
+    "intent_url": "intent://aHR0cDovLzE3My4yNDkuMzYuMjM4OjI1NDYxLzM4OTAyNjM3OS9mcmVlaXB0dmdlbi8xOTk1NzQ1MC50cw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://173.249.36.238:25461/389026379/freeiptvgen/19957450.ts"
   },
   {
-    "name": "beIN Sport 2HD",
-    "intent_url": "intent://aHR0cHM6Ly9iYi5nZ2dzam1qaDc1NmhnZmZyZWV3Z3VpaWpuYnZjZmc3LnN0b3JlOjgxODEvYmVpbjIvaW5kZXgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://bb.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein2/index.m3u8"
+    "name": "BeIN SPORTS 1 FHD",
+    "intent_url": "intent://aHR0cDovLzE3My4yNDkuMzYuMjM4OjI1NDYxLzM4OTAyNjM3OS9mcmVlaXB0dmdlbi8xOTk1NzQ1NC50cw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://173.249.36.238:25461/389026379/freeiptvgen/19957454.ts"
   },
   {
-    "name": "beIN Sport 3HD",
-    "intent_url": "intent://aHR0cHM6Ly9hYS5nZ2dzam1qaDc1NmhnZmZyZWV3Z3VpaWpuYnZjZmc3LnN0b3JlOjgxODEvYmVpbjMvaW5kZXgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://aa.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein3/index.m3u8"
+    "name": "BeIN SPORTS 2 FHD",
+    "intent_url": "intent://aHR0cDovLzE3My4yNDkuMzYuMjM4OjI1NDYxLzM4OTAyNjM3OS9mcmVlaXB0dmdlbi8xOTk1NzQ1NS50cw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://173.249.36.238:25461/389026379/freeiptvgen/19957455.ts"
   },
   {
-    "name": "beIN Sport 4HD",
-    "intent_url": "intent://aHR0cHM6Ly9hYS5nZ2dzam1qaDc1NmhnZmZyZWV3Z3VpaWpuYnZjZmc3LnN0b3JlOjgxODEvYmVpbjQvaW5kZXgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://aa.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein4/index.m3u8"
+    "name": "BeIN SPORTS 3 FHD",
+    "intent_url": "intent://aHR0cDovLzE3My4yNDkuMzYuMjM4OjI1NDYxLzM4OTAyNjM3OS9mcmVlaXB0dmdlbi8xOTk1NzQ1Ni50cw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://173.249.36.238:25461/389026379/freeiptvgen/19957456.ts"
   },
   {
-    "name": "beIN Sport 5HD",
-    "intent_url": "intent://aHR0cHM6Ly9iYi5nZ2dzam1qaDc1NmhnZmZyZWV3Z3VpaWpuYnZjZmc3LnN0b3JlOjgxODEvYmVpbjUvaW5kZXgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://bb.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein5/index.m3u8"
+    "name": "BeIN SPORTS 4 FHD",
+    "intent_url": "intent://aHR0cDovLzE3My4yNDkuMzYuMjM4OjI1NDYxLzM4OTAyNjM3OS9mcmVlaXB0dmdlbi8xOTk1NzQ1Ny50cw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://173.249.36.238:25461/389026379/freeiptvgen/19957457.ts"
+  },
+  {
+    "name": "BeIN SPORTS 5 FHD",
+    "intent_url": "intent://aHR0cDovLzE3My4yNDkuMzYuMjM4OjI1NDYxLzM4OTAyNjM3OS9mcmVlaXB0dmdlbi8xOTk1NzQ1OC50cw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://173.249.36.238:25461/389026379/freeiptvgen/19957458.ts"
+  },
+  {
+    "name": "BeIN SPORTS 6 FHD",
+    "intent_url": "intent://aHR0cDovLzE3My4yNDkuMzYuMjM4OjI1NDYxLzM4OTAyNjM3OS9mcmVlaXB0dmdlbi8xOTk1NzQ1OS50cw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://173.249.36.238:25461/389026379/freeiptvgen/19957459.ts"
+  },
+  {
+    "name": "BeIN SPORTS 7 FHD",
+    "intent_url": "intent://aHR0cDovLzE3My4yNDkuMzYuMjM4OjI1NDYxLzM4OTAyNjM3OS9mcmVlaXB0dmdlbi8xOTk1NzQ2MC50cw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://173.249.36.238:25461/389026379/freeiptvgen/19957460.ts"
   }
 ]
