@@ -15,6 +15,11 @@
     "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1337011579abe9258102fc"
   },
   {
+    "name": "BEIN SPORTS 4 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTU1NTY2OTAyMzEwODA0ZDdkMzQ4OQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/155566902310804d7d3489"
+  },
+  {
     "name": "BEIN SPORTS 5 HEVC .b",
     "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTExODc4ODkyNDRjZjY2YjY4MjYzNQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
     "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/11187889244cf66b682635"
@@ -28,6 +33,11 @@
     "name": "BEIN SPORTS 7 HEVC .b",
     "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTE4MDMzOTQ1NzNkYTNlYmZiYjBmNA==#Intent;scheme=xmtv;package=com.xpola.player;end",
     "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/11803394573da3ebfbb0f4"
+  },
+  {
+    "name": "BEIN SPORTS 8 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzA3NTU5Mzg2ODE5MGVmZTY3ZTI5MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3075593868190efe67e291"
   },
   {
     "name": "BEIN SPORTS 9 HEVC .b",
