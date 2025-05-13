@@ -1,47 +1,37 @@
 [
   {
-    "name": "AR - BEIN SPORTS 1 HEVC",
-    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5NzM=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986973"
+    "name": "BEIN SPORTS 1 H265 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjQwMzQyNTAzMTRmZDlhYTM0OTY4NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/24034250314fd9aa349685"
   },
   {
-    "name": "AR - BEIN SPORTS 2 HEVC",
-    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5NzQ=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986974"
+    "name": "BEIN SPORTS 2 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjY5MTkwOTE4OTQ5OTA3ZDZkMzkyYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/269190918949907d6d392c"
   },
   {
-    "name": "AR - BEIN SPORTS 3 HEVC",
-    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5NzU=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986975"
+    "name": "BEIN SPORTS 3 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTMzNzAxMTU3OWFiZTkyNTgxMDJmYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1337011579abe9258102fc"
   },
   {
-    "name": "AR - BEIN SPORTS 4 HEVC",
-    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5NzY=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986976"
+    "name": "BEIN SPORTS 5 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTExODc4ODkyNDRjZjY2YjY4MjYzNQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/11187889244cf66b682635"
   },
   {
-    "name": "AR - BEIN SPORTS 5 HEVC",
-    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5Nzc=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986977"
+    "name": "BEIN SPORTS 6 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjg0NTM2OTkxOTVjZjdhZjY3M2UwYg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/28453699195cf7af673e0b"
   },
   {
-    "name": "AR - BEIN SPORTS 6 HEVC",
-    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5Nzg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986978"
+    "name": "BEIN SPORTS 7 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTE4MDMzOTQ1NzNkYTNlYmZiYjBmNA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/11803394573da3ebfbb0f4"
   },
   {
-    "name": "AR - BEIN SPORTS 7 HEVC",
-    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5Nzk=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986979"
-  },
-  {
-    "name": "AR - BEIN SPORTS 8 HEVC",
-    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5ODA=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986980"
-  },
-  {
-    "name": "AR - BEIN SPORTS 9 HEVC",
-    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5ODE=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986981"
+    "name": "BEIN SPORTS 9 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTQ4NjA3NzM2MmExZDFjZDUyZDA0ZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1486077362a1d1cd52d04d"
   }
 ]
