@@ -1,27 +1,12 @@
 [
   {
-    "name": "beIN Sport 1HD",
-    "intent_url": "intent://aHR0cHM6Ly9iYi5nZ2dzam1qaDc1NmhnZmZyZWV3Z3VpaWpuYnZjZmc3LnN0b3JlOjgxODEvYmVpbjEvaW5kZXgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://bb.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein1/index.m3u8"
+    "name": "MBC IRAQ",
+    "intent_url": "intent://aHR0cHM6Ly9zaGxzLWlyYXEtcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvYzliZjFlODdlYTY2NDc4YmIyMGJjNWM5M2M5ZDQxZWEvaW5kZXgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8"
   },
   {
-    "name": "beIN Sport 2HD",
-    "intent_url": "intent://aHR0cHM6Ly9iYi5nZ2dzam1qaDc1NmhnZmZyZWV3Z3VpaWpuYnZjZmc3LnN0b3JlOjgxODEvYmVpbjIvaW5kZXgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://bb.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein2/index.m3u8"
-  },
-  {
-    "name": "beIN Sport 3HD",
-    "intent_url": "intent://aHR0cHM6Ly9hYS5nZ2dzam1qaDc1NmhnZmZyZWV3Z3VpaWpuYnZjZmc3LnN0b3JlOjgxODEvYmVpbjMvaW5kZXgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://aa.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein3/index.m3u8"
-  },
-  {
-    "name": "beIN Sport 4HD",
-    "intent_url": "intent://aHR0cHM6Ly9hYS5nZ2dzam1qaDc1NmhnZmZyZWV3Z3VpaWpuYnZjZmc3LnN0b3JlOjgxODEvYmVpbjQvaW5kZXgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://aa.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein4/index.m3u8"
-  },
-  {
-    "name": "beIN Sport 5HD",
-    "intent_url": "intent://aHR0cHM6Ly9iYi5nZ2dzam1qaDc1NmhnZmZyZWV3Z3VpaWpuYnZjZmc3LnN0b3JlOjgxODEvYmVpbjUvaW5kZXgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://bb.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein5/index.m3u8"
+    "name": "UTV Iraq",
+    "intent_url": "intent://aHR0cHM6Ly9tbi1ubC5tbmNkbi5jb20vdXR2aXJhcWkyLzY0YzgwMzU5L2NodW5rbGlzdC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8"
   }
 ]
