@@ -1,22 +1,47 @@
 [
   {
-    "name": "AR: beIN SPORTS 1 HD",
-    "intent_url": "intent://aHR0cDovL2NtMS5wb3J0YWx0di5pbmZvOjc3Ny9BbnRvblNwYXFpL3U1RmhyaXF6QmEvOTM1#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/935"
+    "name": "AR - BEIN SPORTS 1 HEVC",
+    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5NzM=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986973"
   },
   {
-    "name": "AR: beIN SPORTS 2 HD",
-    "intent_url": "intent://aHR0cDovL2NtMS5wb3J0YWx0di5pbmZvOjc3Ny9BbnRvblNwYXFpL3U1RmhyaXF6QmEvOTM0#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/934"
+    "name": "AR - BEIN SPORTS 2 HEVC",
+    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5NzQ=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986974"
   },
   {
-    "name": "AR: beIN SPORTS 3 HD",
-    "intent_url": "intent://aHR0cDovL2NtMS5wb3J0YWx0di5pbmZvOjc3Ny9BbnRvblNwYXFpL3U1RmhyaXF6QmEvOTMz#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/933"
+    "name": "AR - BEIN SPORTS 3 HEVC",
+    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5NzU=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986975"
   },
   {
-    "name": "AR: beIN SPORTS 4 ᶠᴴᴰ",
-    "intent_url": "intent://aHR0cDovL2NtMS5wb3J0YWx0di5pbmZvOjc3Ny9BbnRvblNwYXFpL3U1RmhyaXF6QmEvOTMy#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://cm1.portaltv.info:777/AntonSpaqi/u5FhriqzBa/932"
+    "name": "AR - BEIN SPORTS 4 HEVC",
+    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5NzY=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986976"
+  },
+  {
+    "name": "AR - BEIN SPORTS 5 HEVC",
+    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5Nzc=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986977"
+  },
+  {
+    "name": "AR - BEIN SPORTS 6 HEVC",
+    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5Nzg=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986978"
+  },
+  {
+    "name": "AR - BEIN SPORTS 7 HEVC",
+    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5Nzk=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986979"
+  },
+  {
+    "name": "AR - BEIN SPORTS 8 HEVC",
+    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5ODA=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986980"
+  },
+  {
+    "name": "AR - BEIN SPORTS 9 HEVC",
+    "intent_url": "intent://aHR0cDovL3JmeWU1NS54eXo6ODAvOEEyMkNBMDBBRDNBLzVDMjRDMjcwOTEyNy85ODY5ODE=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://rfye55.xyz:80/8A22CA00AD3A/5C24C2709127/986981"
   }
 ]
