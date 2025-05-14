@@ -1,47 +1,47 @@
 [
   {
-    "name": "BEIN SPORTS 1 H265 .b",
-    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjQwMzQyNTAzMTRmZDlhYTM0OTY4NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/24034250314fd9aa349685"
+    "name": "bein sports 1 FUD+",
+    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA1Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5052"
   },
   {
-    "name": "BEIN SPORTS 2 HEVC .b",
-    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjY5MTkwOTE4OTQ5OTA3ZDZkMzkyYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/269190918949907d6d392c"
+    "name": "beIN SPORTS 2 FUD+++",
+    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA1OQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5059"
   },
   {
-    "name": "BEIN SPORTS 3 HEVC .b",
-    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTMzNzAxMTU3OWFiZTkyNTgxMDJmYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1337011579abe9258102fc"
+    "name": "beIN SPORTS 3 FHD+++",
+    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA2MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5061"
   },
   {
-    "name": "BEIN SPORTS 4 FHD .b",
-    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTU1NTY2OTAyMzEwODA0ZDdkMzQ4OQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/155566902310804d7d3489"
+    "name": "bein sports 4 FHD++",
+    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5058"
   },
   {
-    "name": "BEIN SPORTS 5 HEVC .b",
-    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTExODc4ODkyNDRjZjY2YjY4MjYzNQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/11187889244cf66b682635"
+    "name": "bein sports 5 FHD+++",
+    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA1Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5057"
   },
   {
-    "name": "BEIN SPORTS 6 HEVC .b",
-    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjg0NTM2OTkxOTVjZjdhZjY3M2UwYg==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/28453699195cf7af673e0b"
+    "name": "bein sports 6 FHD+",
+    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTM2NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5364"
   },
   {
-    "name": "BEIN SPORTS 7 HEVC .b",
-    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTE4MDMzOTQ1NzNkYTNlYmZiYjBmNA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/11803394573da3ebfbb0f4"
+    "name": "bein sports 7 FHD",
+    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA0Ng==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5046"
   },
   {
-    "name": "BEIN SPORTS 8 HEVC .b",
-    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzA3NTU5Mzg2ODE5MGVmZTY3ZTI5MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3075593868190efe67e291"
+    "name": "bein sports 8 FHD++",
+    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA0NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5045"
   },
   {
-    "name": "BEIN SPORTS 9 HEVC .b",
-    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTQ4NjA3NzM2MmExZDFjZDUyZDA0ZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1486077362a1d1cd52d04d"
+    "name": "bein sports 9 FHD++",
+    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNjE2OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/6168"
   }
 ]
