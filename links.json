@@ -1,47 +1,1437 @@
 [
   {
-    "name": "bein sports 1 FUD+",
-    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA1Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5052"
+    "name": "BEIN SPORTS 1 (720P) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzg0MDQ3NTY1MzE2MThjODdmY2M2Ng==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/38404756531618c87fcc66"
   },
   {
-    "name": "beIN SPORTS 2 FUD+++",
-    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA1OQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5059"
+    "name": "BEIN SPORTS 1 (720PFEED) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjIzMzA2NjQzMzNlYmI0YWNiYjZhYg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/22330664333ebb4acbb6ab"
   },
   {
-    "name": "beIN SPORTS 3 FHD+++",
-    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA2MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5061"
+    "name": "BEIN SPORTS 1 (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTExMDU4OTI0NGQxOWI4ZTFkZmMwZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1110589244d19b8e1dfc0d"
   },
   {
-    "name": "bein sports 4 FHD++",
-    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5058"
+    "name": "BEIN SPORTS 1 (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTY5NjUyMTMwNjExODczMTQwMTMxYg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/169652130611873140131b"
   },
   {
-    "name": "bein sports 5 FHD+++",
-    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA1Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5057"
+    "name": "BEIN SPORTS 1 + .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjU3NjIxNjg5N2QxYzJiMTRhZjRlOQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2576216897d1c2b14af4e9"
   },
   {
-    "name": "bein sports 6 FHD+",
-    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTM2NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5364"
+    "name": "BEIN SPORTS 1 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTU2NDYyNzQ0NDBjOTFiZTE5NzYwMg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/15646274440c91be197602"
   },
   {
-    "name": "bein sports 7 FHD",
-    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA0Ng==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5046"
+    "name": "BEIN SPORTS 1 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzg0NDkxNjg4MjFiMDY5ZjhkOTc5OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/38449168821b069f8d9798"
   },
   {
-    "name": "bein sports 8 FHD++",
-    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNTA0NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/5045"
+    "name": "BEIN SPORTS 1 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjg2OTg2MjY0MmZhMjBiMDZlNjc5NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2869862642fa20b06e6794"
   },
   {
-    "name": "bein sports 9 FHD++",
-    "intent_url": "intent://aHR0cDovL2dvaXB0di5jbzo4MDgwL1RPUExVTklYQUZSSUNBL21ndXB1NXdlYk8vNjE2OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "http://goiptv.co:8080/TOPLUNIXAFRICA/mgupu5webO/6168"
+    "name": "BEIN SPORTS 1 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzAwMTEzMzk0Y2VlYmJhNjZjOGFk#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/300113394ceebba66c8ad"
+  },
+  {
+    "name": "BEIN SPORTS 1 50 FPS .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTM1MjQyMTA1MzhlMTkyZDg3OGQyMA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/13524210538e192d878d20"
+  },
+  {
+    "name": "BEIN SPORTS 1 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzcyMTcyMTEyNDJjMTVjNTFhNzMz#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/37217211242c15c51a733"
+  },
+  {
+    "name": "BEIN SPORTS 1 FHD [LIVE DURING EVENTS ONLY] .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjUyNjMzODE2NWIwN2NmMDkzODc0Ng==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2526338165b07cf0938746"
+  },
+  {
+    "name": "BEIN SPORTS 1 H265 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjQwMzQyNTAzMTRmZDlhYTM0OTY4NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/24034250314fd9aa349685"
+  },
+  {
+    "name": "BEIN SPORTS 1 HD (BACKUP 2) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNzgyODg3ODIxYzUzYTVkZDZhMzgx#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/782887821c53a5dd6a381"
+  },
+  {
+    "name": "BEIN SPORTS 1 HD (BACKUP 3) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzg1ODA1MzE2MGU5M2YwMjM0YWIwZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3858053160e93f0234ab0d"
+  },
+  {
+    "name": "BEIN SPORTS 1 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzg3MzY5MTI5MDlhZWUyNjUzYmY4ZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/38736912909aee2653bf8d"
+  },
+  {
+    "name": "BEIN SPORTS 1 HD (TURKEY) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNTkzNDkzODYwNWUzNjFkN2UwZmYw#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/5934938605e361d7e0ff0"
+  },
+  {
+    "name": "BEIN SPORTS 1 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjE1NTk5NzQ0M2RiMGNkMTcwYjNhZg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2155997443db0cd170b3af"
+  },
+  {
+    "name": "BEIN SPORTS 1 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTQ5MDA5NTc4N2JjNzU5YTYyZjY4Mw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1490095787bc759a62f683"
+  },
+  {
+    "name": "BEIN SPORTS 1 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNjYyMTc5NjIwMzNhMmQzZTljNDdm#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/66217962033a2d3e9c47f"
+  },
+  {
+    "name": "BEIN SPORTS 1 HD LOCAL .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjA1MjQzNzk4OWQ2NGUyZjEwYzE0ZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2052437989d64e2f10c14d"
+  },
+  {
+    "name": "BEIN SPORTS 1 HD [LIVE DURING EVENTS ONLY] .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTA2Mzc2MTUyMzMzNTI4ZTdkNDk4YQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/106376152333528e7d498a"
+  },
+  {
+    "name": "BEIN SPORTS 1 HQ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNjc5NjA0NzIxM2YzNGJmNDNhMzg0#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/6796047213f34bf43a384"
+  },
+  {
+    "name": "BEIN SPORTS 1 PREMIEM .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTQwMzY2NjEwNzhjZmExOGEyMGI0ZQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/14036661078cfa18a20b4e"
+  },
+  {
+    "name": "BEIN SPORTS 1 PREMIUM (BACKUP 2) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzkxNDAxMTc4MzQ4YTc1NTliODIzMg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/391401178348a7559b8232"
+  },
+  {
+    "name": "BEIN SPORTS 1 PREMIUM (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvODMxODc2MzRhNmViMmFlNDc4Y2M=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/83187634a6eb2ae478cc"
+  },
+  {
+    "name": "BEIN SPORTS 1 PREMIUM .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTM1MDMxOTEzNjdhZmQ1YzM3MjVjNA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/13503191367afd5c3725c4"
+  },
+  {
+    "name": "BEIN SPORTS 1 PREMIUM 1080 LOCAL .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzQ4NzY1NjE3OTA4YTJhNzU4NzJlMA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/348765617908a2a75872e0"
+  },
+  {
+    "name": "BEIN SPORTS 1 PREMIUM 1MB .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvOTA4MTY0NzYzNTdiYzY2ZmNjMzY2#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/90816476357bc66fcc366"
+  },
+  {
+    "name": "BEIN SPORTS 1 PREMIUM 4K H265 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvODQ5NjgxNTg3ZTgwZjVlYjhiOWUx#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/849681587e80f5eb8b9e1"
+  },
+  {
+    "name": "BEIN SPORTS 1 PREMIUM HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTY5NzAzNzc4MmVjYjU0YjYxYzU0MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1697037782ecb54b61c541"
+  },
+  {
+    "name": "BEIN SPORTS 1 PREMIUM LOW .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTU4MjcyNDc0NWQ4ZjgxZTBmNzBlMQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1582724745d8f81e0f70e1"
+  },
+  {
+    "name": "BEIN SPORTS 1 PREMIUM SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTkxNDg2NzQ1MThmOWM5NjMxMWM1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/19148674518f9c96311c58"
+  },
+  {
+    "name": "BEIN SPORTS 1 SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzkxODUzNTUxNTQ1ZGExZDQyZWU2NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/391853551545da1d42ee64"
+  },
+  {
+    "name": "BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTgxNDQ5NjkzNGRiNDI1N2Y4NjE5#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1814496934db4257f8619"
+  },
+  {
+    "name": "BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzQyODk4NDcwMzYwYjE1OWVmODMwMQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/342898470360b159ef8301"
+  },
+  {
+    "name": "BEIN SPORTS 10 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNTEyMDgxMDIyMGJhZDA4NDg3YjAw#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/5120810220bad08487b00"
+  },
+  {
+    "name": "BEIN SPORTS 10 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjE5NzAwNzc4MDAxYTNiNmY3YThiMg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/219700778001a3b6f7a8b2"
+  },
+  {
+    "name": "BEIN SPORTS 11 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNjAyMjQ4NjU0ODgzYzY2NTA5YWEw#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/602248654883c66509aa0"
+  },
+  {
+    "name": "BEIN SPORTS 11 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTMxNDQ5OTg5OGFhZTU5OTY1ZDdiMQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1314499898aae59965d7b1"
+  },
+  {
+    "name": "BEIN SPORTS 12 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzIzNTI5MzkxM2M1ZjgxNzBiODIzYg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3235293913c5f8170b823b"
+  },
+  {
+    "name": "BEIN SPORTS 13 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjA5NDk2NjQ3YjQ5M2EyNTdlZGZk#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/209496647b493a257edfd"
+  },
+  {
+    "name": "BEIN SPORTS 2 (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTA0NTYzMzc2NzI0YzI1ZDExMmQ4NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/104563376724c25d112d84"
+  },
+  {
+    "name": "BEIN SPORTS 2 (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDI3ODE3MzQ1MmVhZGIzM2IxYmU0#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/4278173452eadb33b1be4"
+  },
+  {
+    "name": "BEIN SPORTS 2 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDUxMDI5Nzk2MzhjNzg5MTQwNTQ4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/45102979638c789140548"
+  },
+  {
+    "name": "BEIN SPORTS 2 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjcyNzEzMjIyNjZjMzRjNzhjOWI3Mw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/27271322266c34c78c9b73"
+  },
+  {
+    "name": "BEIN SPORTS 2 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzk3MDg4MjA4MjJlODBkYzgxYWFiZg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/39708820822e80dc81aabf"
+  },
+  {
+    "name": "BEIN SPORTS 2 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTQ0NzI0MTUwNmJkY2NmYWQ4Yjg1Yw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1447241506bdccfad8b85c"
+  },
+  {
+    "name": "BEIN SPORTS 2 .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNzk2ODI1NDIzZWQxZTllOWRkOTUw#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/796825423ed1e9e9dd950"
+  },
+  {
+    "name": "BEIN SPORTS 2 .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjUwOTQ2NjE5MTk2ZjdkNDhlNWQ3NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/250946619196f7d48e5d74"
+  },
+  {
+    "name": "BEIN SPORTS 2 EN FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzM3NDk0NzgwNDc1MWU0NzU0ZDRhOA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3374947804751e4754d4a8"
+  },
+  {
+    "name": "BEIN SPORTS 2 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNzk5MjY3MjIxYjdiNDljOTcwM2M1#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/799267221b7b49c9703c5"
+  },
+  {
+    "name": "BEIN SPORTS 2 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDE1MTc0NzI0MDk4NjQ1ODc0YzU3Zg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/415174724098645874c57f"
+  },
+  {
+    "name": "BEIN SPORTS 2 FHD .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNzU4MTk4NTNiMGE3ZjM2MTUyZTU=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/75819853b0a7f36152e5"
+  },
+  {
+    "name": "BEIN SPORTS 2 HD (BACKUP 2) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjM4MjMyNzA3NjRkNGRhNzZlMzRhZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/23823270764d4da76e34ad"
+  },
+  {
+    "name": "BEIN SPORTS 2 HD (BACKUP 3) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTE4NTEzNjI1NzMzMzlkYzc4MWViNQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/11851362573339dc781eb5"
+  },
+  {
+    "name": "BEIN SPORTS 2 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzA0NDY0MjA3ODczMzcyYzRhOTc3Mw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/304464207873372c4a9773"
+  },
+  {
+    "name": "BEIN SPORTS 2 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjM1ODU5NjgwMTcwMTRiOTI3Njg5#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/23585968017014b927689"
+  },
+  {
+    "name": "BEIN SPORTS 2 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzU5NjQ4Njk4NDllZDJhOTQ5OGExYg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/35964869849ed2a9498a1b"
+  },
+  {
+    "name": "BEIN SPORTS 2 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjg1MTUzOTE0MzdlOTI4Y2FmZDVkZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/28515391437e928cafd5dd"
+  },
+  {
+    "name": "BEIN SPORTS 2 HD .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNTc2NjkzOTkzMTZmZGYyOTVmNGFl#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/57669399316fdf295f4ae"
+  },
+  {
+    "name": "BEIN SPORTS 2 HD LOCAL .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTA0MTA4NjA2NGQ0NjA5NGM2ODAy#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1041086064d46094c6802"
+  },
+  {
+    "name": "BEIN SPORTS 2 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjY5MTkwOTE4OTQ5OTA3ZDZkMzkyYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/269190918949907d6d392c"
+  },
+  {
+    "name": "BEIN SPORTS 2 HQ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjc4NTk5ODM1NGNiYjQ5NDgyYmNmYg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2785998354cbb49482bcfb"
+  },
+  {
+    "name": "BEIN SPORTS 2 PREMIUM (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTAzMjcxNDk5NDAwMDg5YjA5OGY5Zg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/103271499400089b098f9f"
+  },
+  {
+    "name": "BEIN SPORTS 2 PREMIUM 1080 LOCAL .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjU1MDEyMDkyM2I4NzU5NmNiY2U4MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2550120923b87596cbce81"
+  },
+  {
+    "name": "BEIN SPORTS 2 PREMIUM 1MB .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTcwNjc2MzU1MTQ3YzcxMzEzMzU3Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/170676355147c713133577"
+  },
+  {
+    "name": "BEIN SPORTS 2 PREMIUM 4K H265 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTIzNzAzMjUyOGZiYjMwYWNlMTFiNg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1237032528fbb30ace11b6"
+  },
+  {
+    "name": "BEIN SPORTS 2 PREMIUM HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjQwOTY1MjQwNDQwOGIxNmNiOTEzYQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2409652404408b16cb913a"
+  },
+  {
+    "name": "BEIN SPORTS 2 PREMIUM LOW .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjMxNDg0Njg1ZGVjZTM5MzNhNjZm#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/231484685dece3933a66f"
+  },
+  {
+    "name": "BEIN SPORTS 2 PREMIUM SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTU0MjA3NjkzNzEyZDU1MDNlMDk5NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/154207693712d5503e0995"
+  },
+  {
+    "name": "BEIN SPORTS 2 SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTczMDA5MjIxNmEyYmY3MGI3NzFjMw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1730092216a2bf70b771c3"
+  },
+  {
+    "name": "BEIN SPORTS 2 SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzIzNjM2MjkxMTcxYjJhZjk3ZDc0NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/323636291171b2af97d745"
+  },
+  {
+    "name": "BEIN SPORTS 2 UHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzY5NDY2MjQ3NWEzNmM1MzE4MTgzOA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3694662475a36c53181838"
+  },
+  {
+    "name": "BEIN SPORTS 3 (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjc0MDc3OTkyMTE3ZjNkY2ZkMjE0MA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/274077992117f3dcfd2140"
+  },
+  {
+    "name": "BEIN SPORTS 3 (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjIyMTkzODkzNTk0ZmI0NGM3ZDIxMw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/222193893594fb44c7d213"
+  },
+  {
+    "name": "BEIN SPORTS 3 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNjYyODMxNzY0Y2E2MmYyYWUxMzNj#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/662831764ca62f2ae133c"
+  },
+  {
+    "name": "BEIN SPORTS 3 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjY4MzA4MjIyNmZiY2Y4NTE3OTMxOQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2683082226fbcf85179319"
+  },
+  {
+    "name": "BEIN SPORTS 3 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzUyMDAwMDkxNDYxN2Y3NzFkY2RlZg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3520000914617f771dcdef"
+  },
+  {
+    "name": "BEIN SPORTS 3 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTc5NzQ1OTYwMjE2NTYzMDgwMzk0Zg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/179745960216563080394f"
+  },
+  {
+    "name": "BEIN SPORTS 3 .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzA0MDA0ODYzNWE2Yjk1ZTA5NmEy#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3040048635a6b95e096a2"
+  },
+  {
+    "name": "BEIN SPORTS 3 .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjgzNDUxNDk0M2Q5ZmNjMWRmOTU5NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2834514943d9fcc1df9594"
+  },
+  {
+    "name": "BEIN SPORTS 3 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvOTUzNzMyNTY2OTFjZDQ2ZGMzOGQ1#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/95373256691cd46dc38d5"
+  },
+  {
+    "name": "BEIN SPORTS 3 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzc1ODk5NTE3OThmZGU4ZWMyYjA0Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/37589951798fde8ec2b042"
+  },
+  {
+    "name": "BEIN SPORTS 3 FHD .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzM1NTQ0MDc4ZWMwYTIxZWExYzU5#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/335544078ec0a21ea1c59"
+  },
+  {
+    "name": "BEIN SPORTS 3 HD (BACKUP 2) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTUxMTkxMDc4MDIxMDAwOWJhNGRjYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1511910780210009ba4dcc"
+  },
+  {
+    "name": "BEIN SPORTS 3 HD (BACKUP 3) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjQzNjk3MjI0OWZjMjQxZjg5OTJjZQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2436972249fc241f8992ce"
+  },
+  {
+    "name": "BEIN SPORTS 3 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvODUzNDkzMzQxMTA1NGI0NjRmMmQ2#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/8534933411054b464f2d6"
+  },
+  {
+    "name": "BEIN SPORTS 3 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzI2NTU4ODg2MjdiNTQ0NTJmYzM2Zg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/32655888627b54452fc36f"
+  },
+  {
+    "name": "BEIN SPORTS 3 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDUyMjAwOTE4YjgwMjBiZTg5MTBj#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/452200918b8020be8910c"
+  },
+  {
+    "name": "BEIN SPORTS 3 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTcwMDU5NTgwMThjNWQyM2I0OWVmMA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/17005958018c5d23b49ef0"
+  },
+  {
+    "name": "BEIN SPORTS 3 HD .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDAwOTA3NjM0M2RhODExZWI3NmU4Yg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/4009076343da811eb76e8b"
+  },
+  {
+    "name": "BEIN SPORTS 3 HD LOCAL .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjYwNDM2NDYxNjVkOGZiMGQzZWZiMg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/26043646165d8fb0d3efb2"
+  },
+  {
+    "name": "BEIN SPORTS 3 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTMzNzAxMTU3OWFiZTkyNTgxMDJmYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1337011579abe9258102fc"
+  },
+  {
+    "name": "BEIN SPORTS 3 HQ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTc4OTE5NTkxNjRjOGVlYjM0ZDk4Yg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/17891959164c8eeb34d98b"
+  },
+  {
+    "name": "BEIN SPORTS 3 PREMIUM (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNzE1NDk3MDEwMzRjZjI0ZTU1OTI1#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/71549701034cf24e55925"
+  },
+  {
+    "name": "BEIN SPORTS 3 PREMIUM .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvODA3NDM4Njk5M2ZjYjViMTFiNWMy#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/8074386993fcb5b11b5c2"
+  },
+  {
+    "name": "BEIN SPORTS 3 PREMIUM 1080 LOCAL .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzgzNDI3ODM2MjVhZTlhMjkxZDQx#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/38342783625ae9a291d41"
+  },
+  {
+    "name": "BEIN SPORTS 3 PREMIUM 1MB .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzc5MzYxMjM4MGZmMGI2MGJiNDFmNQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3793612380ff0b60bb41f5"
+  },
+  {
+    "name": "BEIN SPORTS 3 PREMIUM 4K H265 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzU5NjY4ODg0NmVjMjM2MmMzOWFjMw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3596688846ec2362c39ac3"
+  },
+  {
+    "name": "BEIN SPORTS 3 PREMIUM HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTYyNjUyNzMxNzc2ZDQwZDVjYzIxYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/162652731776d40d5cc21c"
+  },
+  {
+    "name": "BEIN SPORTS 3 PREMIUM LOW .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjMyMjI2MTU4MjdiOGQyMmRhYjdhZQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/23222615827b8d22dab7ae"
+  },
+  {
+    "name": "BEIN SPORTS 3 PREMIUM SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDExODk4MTUyOGIwYzFkZmM0NmU2Yg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/4118981528b0c1dfc46e6b"
+  },
+  {
+    "name": "BEIN SPORTS 3 SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjg4MDc3MzE1ODExNjM3NmU0OGU2NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2880773158116376e48e65"
+  },
+  {
+    "name": "BEIN SPORTS 3 SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjA2MzcxMzI5OTA1ZDdmODFmYjlk#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/206371329905d7f81fb9d"
+  },
+  {
+    "name": "BEIN SPORTS 3 UHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzQxMDE2NzU2MGY2OTYwYTBkNmRlOQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3410167560f6960a0d6de9"
+  },
+  {
+    "name": "BEIN SPORTS 4 (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzMzMTQxMjMwNTJmMTcwZTkzNTA1Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/33314123052f170e935052"
+  },
+  {
+    "name": "BEIN SPORTS 4 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjUxMDQ3ODk4MGNjNzlmYzVhNDMwYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2510478980cc79fc5a430c"
+  },
+  {
+    "name": "BEIN SPORTS 4 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzY0MDkwNjM3MDM4NGM0YzUyOGU5OQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3640906370384c4c528e99"
+  },
+  {
+    "name": "BEIN SPORTS 4 .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDUwMDc2NjU1ZDcwNmZmNzNlMzg0#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/450076655d706ff73e384"
+  },
+  {
+    "name": "BEIN SPORTS 4 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTU1NTY2OTAyMzEwODA0ZDdkMzQ4OQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/155566902310804d7d3489"
+  },
+  {
+    "name": "BEIN SPORTS 4 HD (BACKUP 2) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjcwNzU1MzgzNDRjN2I4YTM5NzAz#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/27075538344c7b8a39703"
+  },
+  {
+    "name": "BEIN SPORTS 4 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzA3MDUxMDMwOWU2MTRmYTIxZTNk#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3070510309e614fa21e3d"
+  },
+  {
+    "name": "BEIN SPORTS 4 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzM2MTg1OTQzMWUyNmQ0OGE5M2NhMg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3361859431e26d48a93ca2"
+  },
+  {
+    "name": "BEIN SPORTS 4 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTg3MjIzMjc2OGM3YzY1Y2ViOTg2Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1872232768c7c65ceb9862"
+  },
+  {
+    "name": "BEIN SPORTS 4 HQ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTYxNzAzNTE1N2Q0NmM4NjY3ODdmYg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1617035157d46c866787fb"
+  },
+  {
+    "name": "BEIN SPORTS 4 SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjcwODQ3NzI0NzRmZWE4YzQwMTk4Mw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/27084772474fea8c401983"
+  },
+  {
+    "name": "BEIN SPORTS 4 UHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjkzODI2ODM1M2E2M2EzN2I0NTI4ZQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2938268353a63a37b4528e"
+  },
+  {
+    "name": "BEIN SPORTS 4K FEED(KUTU) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjY3MTA1ODg5YTI1YTQ4M2U1ZTgw#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/267105889a25a483e5e80"
+  },
+  {
+    "name": "BEIN SPORTS 4K FEED(UYDU) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTUzNjczMDYyN2JiZjhmOTVjYTQ3Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1536730627bbf8f95ca477"
+  },
+  {
+    "name": "BEIN SPORTS 5 (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTUzNzEyNjQzOTdkNjNiZTc3ZGRmNw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/15371264397d63be77ddf7"
+  },
+  {
+    "name": "BEIN SPORTS 5 (MATCH TIME) .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTIzMDQ0ODE5MjBhOTJjOTIwNGRjZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/12304481920a92c9204dcd"
+  },
+  {
+    "name": "BEIN SPORTS 5 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjgzMTM0OTU1NmVmMmMzOWEwZDhlNw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2831349556ef2c39a0d8e7"
+  },
+  {
+    "name": "BEIN SPORTS 5 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzgzMTc1NzYxOGZmNTk5ZWQ2ZDY4Yw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3831757618ff599ed6d68c"
+  },
+  {
+    "name": "BEIN SPORTS 5 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDAwMDMxNTYwMTc1ZTM0NzlhM2YxMQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/400031560175e3479a3f11"
+  },
+  {
+    "name": "BEIN SPORTS 5 HD (BACKUP 2) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzM1MTM3MzQyMzdhMmNjYmU4NjA1Zg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/33513734237a2ccbe8605f"
+  },
+  {
+    "name": "BEIN SPORTS 5 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjUxNTI2NzkyNTAyMzk1YmEwZjcyNg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/251526792502395ba0f726"
+  },
+  {
+    "name": "BEIN SPORTS 5 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvODA0NzIwNTc4ZTQyZmJjZGY2OWI=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/804720578e42fbcdf69b"
+  },
+  {
+    "name": "BEIN SPORTS 5 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjczNzk2MzQ4NmI0ZDljNDM3YTk0NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2737963486b4d9c437a945"
+  },
+  {
+    "name": "BEIN SPORTS 5 HD LOCAL .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTY3NzI3NzQzODJkNzk3OTFiNmUxZQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/16772774382d79791b6e1e"
+  },
+  {
+    "name": "BEIN SPORTS 5 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTExODc4ODkyNDRjZjY2YjY4MjYzNQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/11187889244cf66b682635"
+  },
+  {
+    "name": "BEIN SPORTS 5 HQ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjg5OTA1MDI1MWM3YjZjN2JlOTc2ZQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2899050251c7b6c7be976e"
+  },
+  {
+    "name": "BEIN SPORTS 5 SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTg0MzAwODkyOTNkMGEyMWE1ZWFkOQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/18430089293d0a21a5ead9"
+  },
+  {
+    "name": "BEIN SPORTS 6 (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNjcxMDYxNTAwZDBhYmFlZjY3NTdi#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/671061500d0abaef6757b"
+  },
+  {
+    "name": "BEIN SPORTS 6 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDAxNjIxMzQ3NmNmMWNlOWJiZjIzZg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/4016213476cf1ce9bbf23f"
+  },
+  {
+    "name": "BEIN SPORTS 6 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTkxNzgxNDkzNzk2NDNiYThmM2EyNw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/19178149379643ba8f3a27"
+  },
+  {
+    "name": "BEIN SPORTS 6 HD (BACKUP 2) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTY4NzY0MjMxMDBhNGQ0YzIxOTc1OQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/16876423100a4d4c219759"
+  },
+  {
+    "name": "BEIN SPORTS 6 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzMyOTMzODA2NWFlYWNhZjQ3MDk2Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3329338065aeacaf470962"
+  },
+  {
+    "name": "BEIN SPORTS 6 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjMxOTc2OTYyNjEzZTEzNThiZTUyYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/231976962613e1358be52c"
+  },
+  {
+    "name": "BEIN SPORTS 6 HD LOCAL .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNTMwMDYyNjI5NTg5YjU2MTlhODAz#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/530062629589b5619a803"
+  },
+  {
+    "name": "BEIN SPORTS 6 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjg0NTM2OTkxOTVjZjdhZjY3M2UwYg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/28453699195cf7af673e0b"
+  },
+  {
+    "name": "BEIN SPORTS 6 HQ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNTc0OTQ1NTEyYzk1YjA4NzZlZGQw#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/574945512c95b0876edd0"
+  },
+  {
+    "name": "BEIN SPORTS 6 SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzgxNDAwMzI2NjJiMzhhZGIwMmQ0Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/38140032662b38adb02d47"
+  },
+  {
+    "name": "BEIN SPORTS 7 (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzEzNjMyMDY1MDIxOWE2Y2U2ZjIzOQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3136320650219a6ce6f239"
+  },
+  {
+    "name": "BEIN SPORTS 7 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzUyMzM4ODUwMGFkODIyNDQwYmQ4Yg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3523388500ad822440bd8b"
+  },
+  {
+    "name": "BEIN SPORTS 7 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTY5Nzk0Njg0MjAyMzlmMzk0MDkwMw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/16979468420239f3940903"
+  },
+  {
+    "name": "BEIN SPORTS 7 HD (BACKUP 2) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzAxMDg0Njg3OGEyMTMyMGJlMjc5Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3010846878a21320be2792"
+  },
+  {
+    "name": "BEIN SPORTS 7 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTEwNDYzNDI1ODFmMWY4YTVkZjRmYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/11046342581f1f8a5df4fc"
+  },
+  {
+    "name": "BEIN SPORTS 7 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTE5MDA2MDE2NDE0YzAxNWEzZTg3OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/119006016414c015a3e878"
+  },
+  {
+    "name": "BEIN SPORTS 7 HD LOCAL .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjE5MDk5ODYxMWZhM2RiODNhODZlMg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2190998611fa3db83a86e2"
+  },
+  {
+    "name": "BEIN SPORTS 7 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTE4MDMzOTQ1NzNkYTNlYmZiYjBmNA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/11803394573da3ebfbb0f4"
+  },
+  {
+    "name": "BEIN SPORTS 7 HQ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDAwODYzODU4Mjk5MWM1Y2NmYWVmMA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/4008638582991c5ccfaef0"
+  },
+  {
+    "name": "BEIN SPORTS 7 SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvODA1MjQ1NjYwMjI4ZDIwNDhkY2U1#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/805245660228d2048dce5"
+  },
+  {
+    "name": "BEIN SPORTS 720P FEED .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDk5NDg1NDk3ZDYxMzFmNDc0MTdk#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/499485497d6131f47417d"
+  },
+  {
+    "name": "BEIN SPORTS 8 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTM0NzU2NDQyMWRiM2U1ODAxYTZjMw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1347564421db3e5801a6c3"
+  },
+  {
+    "name": "BEIN SPORTS 8 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjI3MDUxNTc4M2Y5OTY3YTZhNmE1NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2270515783f9967a6a6a55"
+  },
+  {
+    "name": "BEIN SPORTS 8 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjY4MTEzOTc1MmNlYzNhN2Y2YjA5Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2681139752cec3a7f6b097"
+  },
+  {
+    "name": "BEIN SPORTS 8 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzA3NTU5Mzg2ODE5MGVmZTY3ZTI5MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3075593868190efe67e291"
+  },
+  {
+    "name": "BEIN SPORTS 8 HQ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvOTM2MzA3NDE4YzEzNGI0NTljOTA4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/936307418c134b459c908"
+  },
+  {
+    "name": "BEIN SPORTS 8K FEED .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjExMzQ2MjM5OGQ4ZGQ1N2E4ZWE3Mw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2113462398d8dd57a8ea73"
+  },
+  {
+    "name": "BEIN SPORTS 9 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTgzMjAwMDA1MzE4ZGYzZjJkMzgxYQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/183200005318df3f2d381a"
+  },
+  {
+    "name": "BEIN SPORTS 9 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTU5NjQ0MjA0NDkwYjkwMWZlNzg=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/159644204490b901fe78"
+  },
+  {
+    "name": "BEIN SPORTS 9 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTM5OTEyNDY2MmIxYTVjMWE5MTFmMw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1399124662b1a5c1a911f3"
+  },
+  {
+    "name": "BEIN SPORTS 9 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTQ4NjA3NzM2MmExZDFjZDUyZDA0ZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1486077362a1d1cd52d04d"
+  },
+  {
+    "name": "BEIN SPORTS 9 HQ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDIxNzY5NDc4OGQxMDU1YjljMmEyMw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/4217694788d1055b9c2a23"
+  },
+  {
+    "name": "BEIN SPORTS AFC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjYzMDUzMDM3M2VjZTJiZDRhNjMzNw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2630530373ece2bd4a6337"
+  },
+  {
+    "name": "BEIN SPORTS AFC 1 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTI1ODE4MzI0NWY4ZmEwYTBiZjZhYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1258183245f8fa0a0bf6ac"
+  },
+  {
+    "name": "BEIN SPORTS AFC 1 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzgxMzk5NDY4MGJhMDY1N2RmOTk5OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3813994680ba0657df9998"
+  },
+  {
+    "name": "BEIN SPORTS AFC 1 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNjczMDcxMzkyMTk0MWI5OTRmMWQ2#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/6730713921941b994f1d6"
+  },
+  {
+    "name": "BEIN SPORTS AFC 1 SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjMxOTc3ODUyOGUyNjdhZGE0YjA3Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2319778528e267ada4b077"
+  },
+  {
+    "name": "BEIN SPORTS AFC 1 ULTRA 4K .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzM4MDM1NzEzMjI3MGJhYTBmNDE4NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3380357132270baa0f4185"
+  },
+  {
+    "name": "BEIN SPORTS AFC 2 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvODA1NTgyOTE4NzlhNzgwMDgwODBl#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/80558291879a78008080e"
+  },
+  {
+    "name": "BEIN SPORTS AFC 2 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTkzNjk0MjcyOGNlMDlhODFhYmI4NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1936942728ce09a81abb84"
+  },
+  {
+    "name": "BEIN SPORTS AFC 2 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTg0MzEzMjI1MWRlZjJjZWVlYmI0Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1843132251def2ceeebb42"
+  },
+  {
+    "name": "BEIN SPORTS AFC 2 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzI3NDMwODEzMWFjOTA0ODU1OTA2Mw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3274308131ac9048559063"
+  },
+  {
+    "name": "BEIN SPORTS AFC 2 SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvODAzNDg0MTk4ODEzMzg2ZmEzYWU=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/803484198813386fa3ae"
+  },
+  {
+    "name": "BEIN SPORTS AFC 2 ULTRA 4K .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzAzODU4MDE4M2NjY2YxMTEyMmU0Yg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3038580183cccf11122e4b"
+  },
+  {
+    "name": "BEIN SPORTS AFC 3 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTY3ODI3NTI3NTYxZjY4M2ExODM2Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/167827527561f683a18362"
+  },
+  {
+    "name": "BEIN SPORTS AFC 3 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjcwODYwMDc3M2YwMDdkZjQzZDE2ZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2708600773f007df43d16d"
+  },
+  {
+    "name": "BEIN SPORTS AFC 3 HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNzUzNjM1NjEzNzM1Mjk2NmM2MmMx#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/7536356137352966c62c1"
+  },
+  {
+    "name": "BEIN SPORTS AFC 3 SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzM2MTczNjA5MzdkYjJhOTI1OWU2Zg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/33617360937db2a9259e6f"
+  },
+  {
+    "name": "BEIN SPORTS AFC 3 ULTRA 4K .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNjcyMzI4ODY1YzY4ZjA0YTU1M2M4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/672328865c68f04a553c8"
+  },
+  {
+    "name": "BEIN SPORTS AFC 4 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzIwODk1NzQxNGNjZWM4N2YyY2MwMQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3208957414ccec87f2cc01"
+  },
+  {
+    "name": "BEIN SPORTS AFC 5 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjE4MzQ1NTgzMGRkMTlmNTFkZDA1Ng==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2183455830dd19f51dd056"
+  },
+  {
+    "name": "BEIN SPORTS AFC FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzY4NTI5MTgzMGNkMjQ4ZThlOWE=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3685291830cd248e8e9a"
+  },
+  {
+    "name": "BEIN SPORTS AFC HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjY0MTExNzIxNTllMjg4ODY5ZWYwOQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/26411172159e288869ef09"
+  },
+  {
+    "name": "BEIN SPORTS AFC HEVC .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzczMzI2NjYzZGMwZmE0ZDBhODQ=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/373326663dc0fa4d0a84"
+  },
+  {
+    "name": "BEIN SPORTS AFC SD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDEwMTg3ODM0MzI4ZjRmMmEyZWJmNg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/410187834328f4f2a2ebf6"
+  },
+  {
+    "name": "BEIN SPORTS AFC ULTRA 4K .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzA1ODg2NTI0MjhiNzk2YTJkYWQwYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/30588652428b796a2dad0c"
+  },
+  {
+    "name": "BEIN SPORTS ENGLISH 1 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDU3Njg2ODM0NDAwZTUzMzgwNDBk#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/457686834400e5338040d"
+  },
+  {
+    "name": "BEIN SPORTS ENGLISH 2 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTU1ODY5MzM0NmFjNDYyYWNiYzQ1MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1558693346ac462acbc451"
+  },
+  {
+    "name": "BEIN SPORTS ENGLISH HD1 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDk2NjM4ODQ4ZGM5NzAxY2EyYThj#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/496638848dc9701ca2a8c"
+  },
+  {
+    "name": "BEIN SPORTS ENGLISH HD2 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTUxMzc3NTQ0MDYwMmU2YmJhMTdhNA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1513775440602e6bba17a4"
+  },
+  {
+    "name": "BEIN SPORTS ENGLISH HD3 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTczMzk3MDE0NDRhMWM1ZDJlOGEzMg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/17339701444a1c5d2e8a32"
+  },
+  {
+    "name": "BEIN SPORTS EXTRA 2 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzE1MzE4OTUzNjk1MzAxNDhlOWI0Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/31531895369530148e9b42"
+  },
+  {
+    "name": "BEIN SPORTS FEED (OZEL FEED YAYIN) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTQ1MzY5MjMxNGY1MjczMGM1MDM5NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1453692314f52730c50395"
+  },
+  {
+    "name": "BEIN SPORTS FHD 1 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzI4Njc2MjQ2NzVmMjA4ZjJkMTU5Mw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/32867624675f208f2d1593"
+  },
+  {
+    "name": "BEIN SPORTS FHD 2 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjIxOTM0MjEzMTQ2N2VlZWEzOWMxNg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2219342131467eeea39c16"
+  },
+  {
+    "name": "BEIN SPORTS FHD 3 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzEwNjQyNzAxMTUyYzA5NjY5M2E3Yg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/310642701152c096693a7b"
+  },
+  {
+    "name": "BEIN SPORTS FHD 4 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTg1MTA5NjUxZjVmMDBkOWIzOWQx#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/185109651f5f00d9b39d1"
+  },
+  {
+    "name": "BEIN SPORTS FHD 5 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvOTEyODI3NjgzY2NlM2E0YWViYTcw#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/912827683cce3a4aeba70"
+  },
+  {
+    "name": "BEIN SPORTS FHD 6 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTkwODk4OTkzOTVlOWQ5ZjNlZTBmNQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/19089899395e9d9f3ee0f5"
+  },
+  {
+    "name": "BEIN SPORTS FHD 7 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTI4NjE0MTUwNzU1OTIwYzM3ZTkzZQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/128614150755920c37e93e"
+  },
+  {
+    "name": "BEIN SPORTS FRENCH 1 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjQ4MTMyMDY4MGEzMDAyMmFkOTZlNg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2481320680a30022ad96e6"
+  },
+  {
+    "name": "BEIN SPORTS FRENCH 2 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzU2MTMyNjY0ODk2Yjc4ZTc1Yzg4OQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/356132664896b78e75c889"
+  },
+  {
+    "name": "BEIN SPORTS FRENCH HD1 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTg0NzYyNDYwMjUxMGYyMmQ0MGY4ZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1847624602510f22d40f8d"
+  },
+  {
+    "name": "BEIN SPORTS FRENCH HD2 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNjk2MzE4MjgyZTU1NzNmYTY4OGQ3#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/696318282e5573fa688d7"
+  },
+  {
+    "name": "BEIN SPORTS GLOBAL HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTA4NDU2NDYxM2JmM2UyNjQ0MDU2MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1084564613bf3e26440561"
+  },
+  {
+    "name": "BEIN SPORTS HABER .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTE5NzMzNjAwMGUxYjdkZDAxNTA2ZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1197336000e1b7dd01506d"
+  },
+  {
+    "name": "BEIN SPORTS HABER .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjgwNjA3OTYxMjg1MzYxZjU1OGZjOA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/280607961285361f558fc8"
+  },
+  {
+    "name": "BEIN SPORTS HABER HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzk4OTk5NTUzM2QwZWZlYTFjODY5Ng==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3989995533d0efea1c8696"
+  },
+  {
+    "name": "BEIN SPORTS HABER RAW .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTY0NjYzMjgyNTE4ZTYxNzlmOTBhZg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/164663282518e6179f90af"
+  },
+  {
+    "name": "BEIN SPORTS HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTA1NjYxNDAwODU1ZTlhN2RkMjcxYg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/105661400855e9a7dd271b"
+  },
+  {
+    "name": "BEIN SPORTS LA LIGA .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzkzOTM5MDQ3M2NjYjE0MTQ1ZDFjOA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3939390473ccb14145d1c8"
+  },
+  {
+    "name": "BEIN SPORTS LA LIGA .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTMzODY0NjA2OTBiNzJiNTBiMDgzOQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/13386460690b72b50b0839"
+  },
+  {
+    "name": "BEIN SPORTS MAX 1 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTIyMTU4NzA2N2M0M2Q1YjI2NWIxMA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1221587067c43d5b265b10"
+  },
+  {
+    "name": "BEIN SPORTS MAX 1 .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjgzMjQzMDUzNTU0Y2M2ZWIwYTEwYQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/283243053554cc6eb0a10a"
+  },
+  {
+    "name": "BEIN SPORTS MAX 1 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDA3MTQ3NDc0M2RiZThhNjBiOTM5NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/4071474743dbe8a60b9395"
+  },
+  {
+    "name": "BEIN SPORTS MAX 1 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjI1MjgxNDIzMzJkMjc1NzIxMjMz#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/22528142332d275721233"
+  },
+  {
+    "name": "BEIN SPORTS MAX 10 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzEyMzY2Nzc4NWNhYzgzNDMwOTQ3Yg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3123667785cac83430947b"
+  },
+  {
+    "name": "BEIN SPORTS MAX 10 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzgwMDQyNTYyMzQwMGRmMjBmMTgzNg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3800425623400df20f1836"
+  },
+  {
+    "name": "BEIN SPORTS MAX 10 FHD (EVENT ONLY) .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjE1ODE1MDI1MDllMmViMzNjYjM2Ng==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/21581502509e2eb33cb366"
+  },
+  {
+    "name": "BEIN SPORTS MAX 10 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTE2MDA2ODMxMWM5NDI2MGZhMDk3#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1160068311c94260fa097"
+  },
+  {
+    "name": "BEIN SPORTS MAX 10 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjQ3MzkwNTQ1OWM5OTE1NDM5ZDE5YQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2473905459c9915439d19a"
+  },
+  {
+    "name": "BEIN SPORTS MAX 2 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjU4OTY4MjM1OTZhODRlNDNkZDA5#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/25896823596a84e43dd09"
+  },
+  {
+    "name": "BEIN SPORTS MAX 2 .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDAxNzI5NTEyNzY2MGQ2NzdjMzJmOQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/4017295127660d677c32f9"
+  },
+  {
+    "name": "BEIN SPORTS MAX 2 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzQwNzkzNjI0MmY5NWMzM2FlODgyMA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3407936242f95c33ae8820"
+  },
+  {
+    "name": "BEIN SPORTS MAX 2 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjIxMjY1OTgyMGIxMDliNDc2YTRkMw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2212659820b109b476a4d3"
+  },
+  {
+    "name": "BEIN SPORTS MAX 4 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDAwNTEzNTU4NmIxNWRlZDAzNzY1NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/4005135586b15ded037655"
+  },
+  {
+    "name": "BEIN SPORTS MAX 4 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDI1MDM1NTg5OWQwZjcwZmE3ZmI4OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/4250355899d0f70fa7fb88"
+  },
+  {
+    "name": "BEIN SPORTS MAX 4 FHD (EVENT ONLY) .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzI1MTY0MjcyOTQyOTBhMmQyMGMyNw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/32516427294290a2d20c27"
+  },
+  {
+    "name": "BEIN SPORTS MAX 4 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzgwMDc4MTEyOTUxOTZjOTU0NjZjOQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/38007811295196c95466c9"
+  },
+  {
+    "name": "BEIN SPORTS MAX 4 HD (EVENT ONLY) .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDcwMDEwNDA2YjNjZTBhODQwMWU2#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/470010406b3ce0a8401e6"
+  },
+  {
+    "name": "BEIN SPORTS MAX 4 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTMwOTI4OTY2MDI2ODVhOGY5Y2RiYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/13092896602685a8f9cdbc"
+  },
+  {
+    "name": "BEIN SPORTS MAX 5 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzU1NDI1ODI1ODZmZjYwZTdhMWJkNA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/35542582586ff60e7a1bd4"
+  },
+  {
+    "name": "BEIN SPORTS MAX 5 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzIyNDg1NDc5NTAyZTE2YmM3YWViZQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/322485479502e16bc7aebe"
+  },
+  {
+    "name": "BEIN SPORTS MAX 5 FHD (EVENT ONLY) .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzYwNjU5NDk4NTQyMmRkMTE4YjJkZQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3606594985422dd118b2de"
+  },
+  {
+    "name": "BEIN SPORTS MAX 5 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTY5NzQ4NzM3MGM1YjFlNmQyMGEyYQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1697487370c5b1e6d20a2a"
+  },
+  {
+    "name": "BEIN SPORTS MAX 5 HD (EVENT ONLY) .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjIxMjA1NTQ4MGQ5MDA1NWQxM2E0Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2212055480d90055d13a47"
+  },
+  {
+    "name": "BEIN SPORTS MAX 5 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjE5MTUzNTEzODZlYWU4YjU3OTIyZg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/21915351386eae8b57922f"
+  },
+  {
+    "name": "BEIN SPORTS MAX 6 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjQ5MTAxMjk5NGEyYjcxYmJhMzYwYg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2491012994a2b71bba360b"
+  },
+  {
+    "name": "BEIN SPORTS MAX 6 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjI3NDgyNzIyNzAyN2ZmZTFjODFhYg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2274827227027ffe1c81ab"
+  },
+  {
+    "name": "BEIN SPORTS MAX 6 FHD (EVENT ONLY) .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDAxODIwMjg1NzRlZjk0ZGU0ODM4Zg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/40182028574ef94de4838f"
+  },
+  {
+    "name": "BEIN SPORTS MAX 6 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvOTE4MDEyMzAyMjQ0NGE2YTU3ODBi#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/9180123022444a6a5780b"
+  },
+  {
+    "name": "BEIN SPORTS MAX 6 HD (EVENT ONLY) .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDE3Mzg0MzI5MTRlNTM5MDI5MDNhZg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/41738432914e53902903af"
+  },
+  {
+    "name": "BEIN SPORTS MAX 6 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjA0NDE3OTg1OGYxMGNlNGEyMjZi#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2044179858f10ce4a226b"
+  },
+  {
+    "name": "BEIN SPORTS MAX 7 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjgzNzA1Mjk3ODRmMjEyYThjNzI5OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/28370529784f212a8c7298"
+  },
+  {
+    "name": "BEIN SPORTS MAX 7 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzEzNjc2MjQ3NTU3ODNhYmNkZWY5OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/31367624755783abcdef98"
+  },
+  {
+    "name": "BEIN SPORTS MAX 7 FHD (EVENT ONLY) .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDE3MTc5NTQ5NzAzNjlhMTFmZjhjNA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/41717954970369a11ff8c4"
+  },
+  {
+    "name": "BEIN SPORTS MAX 7 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjk3MDY4NDEwOTBlMDBjMzUyZmRjMw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/29706841090e00c352fdc3"
+  },
+  {
+    "name": "BEIN SPORTS MAX 7 HD (EVENT ONLY) .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTcyOTk3MjQyMWVlYmI1ZTE5ODU1OQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1729972421eebb5e198559"
+  },
+  {
+    "name": "BEIN SPORTS MAX 7 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzIyOTk1Mjg2MzJkODE4NWE3MDZlMA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/32299528632d8185a706e0"
+  },
+  {
+    "name": "BEIN SPORTS MAX 8 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNzI2MjMxNTIzMGYxMjY2NDY2NGE5#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/7262315230f12664664a9"
+  },
+  {
+    "name": "BEIN SPORTS MAX 8 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvOTUwNTExMDM0OTZjN2Q4OTY2ZDA0#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/95051103496c7d8966d04"
+  },
+  {
+    "name": "BEIN SPORTS MAX 8 FHD (EVENT ONLY) .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNjA3Mjk0NTY5N2IwNjc5ODM0NWQ4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/6072945697b06798345d8"
+  },
+  {
+    "name": "BEIN SPORTS MAX 8 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjAwNjEzNzExMjNkYmViY2Q2ZmVmNg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/20061371123dbebcd6fef6"
+  },
+  {
+    "name": "BEIN SPORTS MAX 8 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDMwMjU4Njc1MjNlMzhjOTc5Yjc2#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/43025867523e38c979b76"
+  },
+  {
+    "name": "BEIN SPORTS MAX 9 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzcxODAyMTk1YmE1MTQ4MDQ0NTBk#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/371802195ba514804450d"
+  },
+  {
+    "name": "BEIN SPORTS MAX 9 .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvOTY5NjM1OTRhOWUyNGJmYTM2OGM=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/96963594a9e24bfa368c"
+  },
+  {
+    "name": "BEIN SPORTS MAX 9 FHD (EVENT ONLY) .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvODU3NDAzNTYxMzQxYzY1ZTA4MDEw#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/857403561341c65e08010"
+  },
+  {
+    "name": "BEIN SPORTS MAX 9 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDAzMDA2NzI5MTYwZGZjZGVkYzUzZg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/403006729160dfcdedc53f"
+  },
+  {
+    "name": "BEIN SPORTS MAX 9 HD (EVENT ONLY) .s",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzAzMzY3ODk2NWRhMTdmNzdmYzZkMg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/3033678965da17f77fc6d2"
+  },
+  {
+    "name": "BEIN SPORTS MAX 9 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzU3NDU0NDc0OTYzMTBhZDM4NjIyZA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/35745447496310ad38622d"
+  },
+  {
+    "name": "BEIN SPORTS N .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNTgxMjkyNTI1MWYxYTllNjMxZDBl#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/5812925251f1a9e631d0e"
+  },
+  {
+    "name": "BEIN SPORTS NBA .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjM0NTkxNTYxMGIyZjEzZDQ0NzhhZg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2345915610b2f13d4478af"
+  },
+  {
+    "name": "BEIN SPORTS NBA HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTk0MDgwMzA0MzFlYmMxOWYyYmM3ZQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/19408030431ebc19f2bc7e"
+  },
+  {
+    "name": "BEIN SPORTS NEWS HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTI3ODkwMTQ1ODk3MjhlZTBmMjgxYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/12789014589728ee0f281c"
+  },
+  {
+    "name": "BEIN SPORTS NEWS HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTA5NzM5NDA4MmYwNjEyYWYyYzM0Yg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1097394082f0612af2c34b"
+  },
+  {
+    "name": "BEIN SPORTS PREMIUM 1 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjI4OTQ4MDAyMDg0NmVmODBmOTg2#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2289480020846ef80f986"
+  },
+  {
+    "name": "BEIN SPORTS PREMIUM 1 HD LOCAL .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDA2Mzk1MzYwODdmNzA1Y2YwYWZmOA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/40639536087f705cf0aff8"
+  },
+  {
+    "name": "BEIN SPORTS PREMIUM 2 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvODc1MDU0MzExODY0OTM3MWE0MWJm#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/8750543118649371a41bf"
+  },
+  {
+    "name": "BEIN SPORTS PREMIUM 2 HD LOCAL .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjM4ODI3MjkxNWE4Nzk4YWRkZTBhYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2388272915a8798adde0ac"
+  },
+  {
+    "name": "BEIN SPORTS PREMIUM 3 FHD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNTkyNjYyNjkyYzY1NWUyMWYxNzM5#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/592662692c655e21f1739"
+  },
+  {
+    "name": "BEIN SPORTS PREMIUM 3 HD LOCAL .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzI0Mzg4NDUzYjhiY2Y0MDQ1MTIz#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/324388453b8bcf4045123"
+  },
+  {
+    "name": "BEIN SPORTS XTRA 1 .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjM1OTU2MzQzMGFiYmY0ZDdmNmE0Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2359563430abbf4d7f6a47"
+  },
+  {
+    "name": "BEIN SPORTS XTRA 1 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjgyMjU0MTI4ODU4ODI1Y2YwMGQ1YQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/282254128858825cf00d5a"
+  },
+  {
+    "name": "BEIN SPORTS XTRA 1 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNzM2MDMwNDY1ZTI2YjY2NmM3NjRj#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/736030465e26b666c764c"
+  },
+  {
+    "name": "BEIN SPORTS XTRA 2 HD (BACKUP) .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNDIyMjAxNDU3MmYzMjBiNjllZjEwNw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/4222014572f320b69ef107"
+  },
+  {
+    "name": "BEIN SPORTS XTRA 2 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjc3MzYwODY3NGE1YmFlOGUyNjA3NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2773608674a5bae8e26074"
+  },
+  {
+    "name": "BEIN SPORTS XTRA 3 HD .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTc3ODExNjczMmRlOWI4NDYyNzFkOA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/1778116732de9b846271d8"
+  },
+  {
+    "name": "BEIN SPORTS XTRA Ñ .c",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvOTc5ODI0NjU3ZWM2ZTNlOTFkZTI2#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/979824657ec6e3e91de26"
+  },
+  {
+    "name": "SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT BARCA HD--♣♦♣♦♣♦♣ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTk4MDI1NjY0MzJkMDBhNTQyMDk1Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/19802566432d00a5420952"
+  },
+  {
+    "name": "SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT INTER--♣♦♣♦♣♦♣ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvNzM5NjYxOTgzODJiZDEwOWUxYjYw#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/73966198382bd109e1b60"
+  },
+  {
+    "name": "SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT JUVENTUS--♣♦♣♦♣♦♣ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMzE4MTU2MjM4MzZiY2U4NGI0NWY4Yg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/31815623836bce84b45f8b"
+  },
+  {
+    "name": "SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT LIVERPOOL--♣♦♣♦♣♦♣ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjIxMjY1OTY0NWE5YzA2ZmFiM2Y0OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2212659645a9c06fab3f48"
+  },
+  {
+    "name": "SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT LOCAL MILAN --♣♦♣♦♣♦♣ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMTQ2NzQ3NDAyNTBkYmVjNTQ3ZmFmYw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/14674740250dbec547fafc"
+  },
+  {
+    "name": "SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT MADRID HD--♣♦♣♦♣♦♣ .b",
+    "intent_url": "intent://aHR0cHM6Ly92YXZvby50by92YXZvby1pcHR2L3BsYXkvMjE1MTk0NzAwNjE4NWZiOGE0MDhmNA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://vavoo.to/vavoo-iptv/play/2151947006185fb8a408f4"
   }
 ]
